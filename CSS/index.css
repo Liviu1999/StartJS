@@ -1,0 +1,13 @@
+button{
+    border: none;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#increment {
+    background: darkred;
+}
+
+#save-btn{
+    background-color: darkgreen;
+}
